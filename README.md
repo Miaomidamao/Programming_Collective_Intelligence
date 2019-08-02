@@ -1,3 +1,2 @@
 # Programming_Collective_Intelligence
-集体智慧编程笔记    
-保存练习代码
+推荐系统实战系列
